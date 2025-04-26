@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍🔬 Researcher | Ph.D. Student
 
-<!--
-**mahsamajd/mahsamajd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Ph.D. in Computer Science, University of South Carolina
+  
+## 🧠 Research Interests
+- Large Language Models (LLMs) and Quantization
+- Edge AI Deployment (Raspberry Pi, Jetson Nano)
+- Conversational AI and Voice Assistants
+- Speech Recognition and Real-Time Processing
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- 💻 Programming: Python, C++
+- 🔥 Machine Learning: PyTorch, TensorFlow, Hugging Face Transformers
+- 🎙 Speech-to-Text: Whisper, Whisper.cpp
+- 🧩 LLM Deployment: Llama.cpp, ONNX, TFLite
+- 📦 Edge AI Tools: Docker, Embedded Systems (Raspberry Pi, Jetson)
+- 📜 Database: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+- 📧 Email: mahsa.majdzadeh@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahsa-ardakani-246909103/
+
+---
+⭐ Thank you for visiting my GitHub!⭐
